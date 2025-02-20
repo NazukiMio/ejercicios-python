@@ -1,0 +1,10 @@
+Ana: 1
+Luis: 3
+Pedro: 4
+Maria: 6
+Juan: 7
+Carlos: 1
+Sofia: 3
+Valeria: 1
+Antonio: 6
+Elena: 5

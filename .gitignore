@@ -1,0 +1,42 @@
+# Ignora todos los archivos de log
+*.log
+
+# Ignora todos los archivos temporales
+*.tmp
+
+# Ignora todos los archivos de la carpeta "files_ignore"
+/files_ignore/*
+
+# Ignora la carpeta "ignore"
+/ignore/
+
+# Ignora archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
+
+# Ignora archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignora archivos de sistema de Linux
+*~
+*.bak
+*.swp
+*.lock
+.directory
+
+# Ignora archivos temporales de IDEs
+.idea/
+.vscode/
+
+# Ignora archivos temporales de python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+
+# Ignora la carpeta "SOLO_LOCAL"
+/SOLO_LOCAL/
